@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A full-stack developer based out of Ottawa, Canada</h3>
 
-- 🔭 I’m currently working at [the Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+- 🔭 I’m currently working at [Trend Micro](https://www.trendmicro.com/en_ca/business.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedalwardani](https://github.com/ahmedalwardani)
 
-- 💬 Ask me about **Javascript, Angular, PSQL**
+- 💬 Ask me about **Javascript, AWS, PSQL**
 
 - 📫 How to reach me **aalwa049@gmail.com**
 
