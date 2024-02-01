@@ -15,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmedalwardani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ahmedalwardani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-alwardani-78b896aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed-alwardani-78b896aa" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_alwardani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ahmed_alwardani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
