@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A full-stack developer based out of Ottawa, Canada</h3>
+<h3 align="center">A DevOps Engineer / Software Developer based out of Canada</h3>
 
 - 🔭 I’m currently working at [Trend Micro](https://www.trendmicro.com/en_ca/business.html)
 
