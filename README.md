@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A DevOps Engineer / Software Developer based out of Canada</h3>
 
-- 🔭 I’m currently working at [Trend Micro](https://www.trendmicro.com/en_ca/business.html)
+- 🔭 I’m currently working at [TrendAI](https://www.trendmicro.com/en_ca/business.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedalwardani](https://github.com/ahmedalwardani)
 
